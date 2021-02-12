@@ -8,7 +8,7 @@
 Current Data Engineer and future software developer.
 
 ### Technology Stack 💻
-<br/>
+
 #### Main Languages
 <img align="left" alt="Java" width="70px" src="https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java" />
 <img align="left" alt="Python" width="85px" src="https://img.shields.io/badge/-python-333333?style=for-the-badge&logo=python" />
