@@ -5,27 +5,16 @@
 Current Data Engineer and future software developer.
 
 ### Technology Stack 💻
-<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="dotnet" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
-<br />
-<br />
+#### Main Languages
+<img align="left" alt="Java" width="70px" src="https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java" />
+<img align="left" alt="Python" width="70px" src="https://img.shields.io/badge/-python-333333?style=for-the-badge&logo=python" />
+<img align="left" alt="Javascript" width="70px" src="https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=Javascript" />
+<img align="left" alt="HTML" width="70px" src="https://img.shields.io/badge/-typescript-333333?style=for-the-badge&logo=typescript" />
+<img align="left" alt="typescript" width="70px" src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5" />
 
-### Recent Acitivies ✨
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaFFC&hide=html&layout=compact&theme=radical" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=LorenaFFC&theme=radical&show_icons=true" /></td>
-  </tr>  
-</table>
-</center>
+#### Frameworks and technologies
+
+
+
 
