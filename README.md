@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1563481434/6016/meow_coffee.png?1563481434" width="30"/> Hi! </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lorena-fernandes-cunha-4a0765135/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lorenafernandes-blue?style=for-the-badge&logo=linkedin&labelColor=333333"></a> &nbsp &nbsp &nbsp<a href="mailto:lorena.cunha@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lorena.cunha@hotmail.com-blue?style=for-the-badge&logo=microsoft-outlook&labelColor=333333"></a>
+<a href="https://www.linkedin.com/in/lorena-fernandes-cunha-4a0765135/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lorenafernandes-red?style=for-the-badge&logo=linkedin&labelColor=333333"></a> &nbsp &nbsp &nbsp<a href="mailto:lorena.cunha@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lorena.cunha@hotmail.com-red?style=for-the-badge&logo=microsoft-outlook&labelColor=333333"></a>
 </p>
 
 ### About me 💬
