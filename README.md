@@ -22,7 +22,7 @@ Current Data Engineer and future software developer.
 
 <img align="left" alt="Spring" width="82px" src="https://img.shields.io/badge/-spring-333334?style=for-the-badge&logo=spring" />
 <img align="left" alt="Angular" width="92px" src="https://img.shields.io/badge/-angular-333334?style=for-the-badge&logo=angular" />
-<img align="left" alt="React" width="75px" src="https://img.shields.io/badge/-react-333334?style=for-the-badge&logo=react" />
+
 
 
 <br/>
