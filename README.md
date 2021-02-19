@@ -19,7 +19,7 @@ Current Data Engineer and future software developer.
 <br/>
 
 #### Frameworks and technologies
-
+<img align="left" alt="Dotnet" width="66px" src= "https://img.shields.io/badge/-.net-333333?style=for-the-badge&logo=.net"/>
 <img align="left" alt="Spring" width="82px" src="https://img.shields.io/badge/-spring-333334?style=for-the-badge&logo=spring" />
 <img align="left" alt="Angular" width="92px" src="https://img.shields.io/badge/-angular-333334?style=for-the-badge&logo=angular" />
 
@@ -29,7 +29,7 @@ Current Data Engineer and future software developer.
 
 #### Database
 
-<img align="left" alt="MYSQL" width="75px" src="https://img.shields.io/badge/-mysql-333333?style=for-the-badge&logo=mysql" />
+<img align="left" alt="MYSQL" width="78px" src="https://img.shields.io/badge/-mysql-333333?style=for-the-badge&logo=mysql" />
 <img align="left" alt="SQLSERVER" width="95px" src="https://img.shields.io/badge/-Sql%20Server-333333?style=for-the-badge&logo=sql-server" />
 <img align="left" alt="POST" width="115px" src="https://img.shields.io/badge/-postgresql-333333?style=for-the-badge&logo=postgresql" />
 <img align="left" alt="MONGODB" width="95px" src="https://img.shields.io/badge/-mongodb-333333?style=for-the-badge&logo=mongodb" />
