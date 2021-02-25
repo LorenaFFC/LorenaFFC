@@ -17,8 +17,9 @@ Current Data Engineer and future software developer.
 <br/>
 
 #### Frameworks and technologies
-<img align="left" alt="Dotnet" width="100px" src= "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg"/>
-<img align="left" alt="Angular" width="100px" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/angular.svg" />
+<img align="left" alt="Dotnet" width="66px" src= "https://img.shields.io/badge/-.net-333333?style=for-the-badge&logo=.net"/>
+<img align="left" alt="Spring" width="82px" src="https://img.shields.io/badge/-spring-333334?style=for-the-badge&logo=spring" />
+<img align="left" alt="Angular" width="94px" src="https://img.shields.io/badge/-angular-333334?style=for-the-badge&logo=angular" />
 
 
 
