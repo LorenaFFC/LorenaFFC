@@ -9,13 +9,10 @@ Current Data Engineer and future software developer.
 
 ### Technology Stack 💻
 
-#### Main Languages
-<img align="left" alt="C#" width="60px" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/csharp.svg" />
-<img align="left" alt="Java" width="70px" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" />
-<img align="left" alt="Python" width="85px" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/python.svg" />
-<img align="left" alt="Javascript" width="100px" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/js.svg" />
-<img align="left" alt="HTML" width="80px" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/html.svg" />
-
+<img align="left" alt="C#" width="90px" src="https://img.shields.io/badge/-C%20Sharp-333333?style=for-the-badge&logo=C%20Sharp" />
+<img align="left" alt="Java" width="70px" src="https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java" />
+<img align="left" alt="Python" width="85px" src="https://img.shields.io/badge/-python-333333?style=for-the-badge&logo=python" />
+<img align="left" alt="Javascript" width="115px" src="https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=Javascript" />
 
 <br/>
 
