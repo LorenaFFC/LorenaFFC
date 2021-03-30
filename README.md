@@ -5,7 +5,7 @@
 </p>
 
 ### About me 💬
-Current Data Engineer and future software developer.
+Trainee Developer.
 
 ### Technology Stack 💻
 
