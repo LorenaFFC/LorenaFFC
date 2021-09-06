@@ -5,7 +5,7 @@
 </p>
 
 ### About me 💬
-Trainee Developer.
+Desenvolvedor Java Pleno.
 
 ### Technology Stack 💻
 
